@@ -1,6 +1,6 @@
-# Branch Darpan
+# Survey Management
 
-Branch Darpan is a full-stack enterprise workflow application for SBI covering hierarchical user management, survey submission and approval, reversal and exemption flows, and audit/history tracking.
+Survey Management is a full-stack enterprise workflow application for SBI covering hierarchical user management, survey submission and approval, reversal and exemption flows, and audit/history tracking.
 
 ## Workspace Layout
 
